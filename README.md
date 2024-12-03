@@ -122,9 +122,8 @@ The Patent/Trademark Platform MVP simplifies intellectual property management, a
 ## Issue cards
 
 - [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone]  
-  <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 - [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.]  
-  <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+  <img src="Issues_mile2.png" width=600>
 
 ## Issues worked on this sprint
 
