@@ -128,7 +128,8 @@ The Patent/Trademark Platform MVP simplifies intellectual property management, a
 ## Issues worked on this sprint
 
 - List the issues you completed this sprint  
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]  
+- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- <img src="Walkthrough.gif" width=600> 
 
 ---
 
