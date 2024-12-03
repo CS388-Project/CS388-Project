@@ -117,7 +117,7 @@ The Patent/Trademark Platform MVP simplifies intellectual property management, a
 ## GitHub Project board
 
 [Add screenshot of your Project Board with three milestones visible in this section]  
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="Milestone2Completed.png" width=600>
 
 ## Issue cards
 
