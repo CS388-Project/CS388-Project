@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.iply.HomeFragment"
+        android:label="Home" />
+
+    <fragment
+        android:id="@+id/patentSearchFragment"
+        android:name="com.example.iply.PatentSearchFragment"
+        android:label="Patent Search" />
+
+    <fragment
+        android:id="@+id/addRegistrationFragment"
+        android:name="com.example.iply.AddRegistrationFragment"
+        android:label="Add Registration" />
+
+    <fragment
+        android:id="@+id/attorneySearchFragment"
+        android:name="com.example.iply.AttorneySearchFragment"
+        android:label="Attorney Search" />
+
+    <fragment
+        android:id="@+id/myPageFragment"
+        android:name="com.example.iply.MyPageFragment"
+        android:label="My Page" />
+
+</navigation>

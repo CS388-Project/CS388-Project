@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/patentSearchFragment"
+        android:icon="@drawable/baseline_manage_search_24"
+        android:title="Search" />
+    <item
+        android:id="@+id/addRegistrationFragment"
+        android:icon="@drawable/baseline_add_box_24"
+        android:title="Add" />
+    <item
+        android:id="@+id/attorneySearchFragment"
+        android:icon="@drawable/baseline_person_search_24"
+        android:title="Attorneys" />
+    <item
+        android:id="@+id/myPageFragment"
+        android:icon="@drawable/baseline_person_outline_24"
+        android:title="My Page" />
+</menu>
