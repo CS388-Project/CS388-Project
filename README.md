@@ -146,7 +146,7 @@ The Patent/Trademark Platform MVP simplifies intellectual property management, a
 - List any pending user stories / any user stories you decided to cut from the original requirements.  
 
 [Add video/gif of your current application that shows build progress]  
-<img src="Walkthrough2.gif" width=600>
+<img src="Walkthrough2.gif" width=300>
 
 ## App Demo Video
 
