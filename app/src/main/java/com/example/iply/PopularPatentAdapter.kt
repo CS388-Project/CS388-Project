@@ -23,7 +23,7 @@ class PopularPatentAdapter(private val patents: List<Patent>) :
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val patent = patents[position]
-        holder.textView.text = patent.name
+        holder.textView.text = patent.title
         holder.imageView.setImageResource(patent.imageResId) // 로컬 이미지
     }
 

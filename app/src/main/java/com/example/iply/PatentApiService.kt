@@ -1,14 +1,16 @@
-import com.example.iply.PatentApiResponse
-import retrofit2.Call
+import com.example.iply.PatentApiResponses
+
+import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
 
+
 interface PatentApiService {
 
-    // 특허 검색 API
-    @GET("/search")
-    fun searchPatents(
-        @Query("query") query: String,
-        @Query("page") page: Int
-    ): Call<PatentApiResponse>
+    @GET("/s")
+    suspend fun getPatents(
+        @Query("ds") ds: String,
+        @Query("q") query: String
+    ): Response<PatentApiResponses>
+
 }

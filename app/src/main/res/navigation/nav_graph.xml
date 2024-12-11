@@ -12,7 +12,17 @@
     <fragment
         android:id="@+id/patentSearchFragment"
         android:name="com.example.iply.PatentSearchFragment"
-        android:label="Patent Search" />
+        android:label="Patent Search">
+        <action
+            android:id="@+id/action_patentSearchFragment_to_patentDetailFragment"
+            app:destination="@id/patentDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/patentDetailFragment"
+        android:name="com.example.iply.PatentDetailFragment"
+        android:label="Patent Detail" />
+
 
     <fragment
         android:id="@+id/addRegistrationFragment"

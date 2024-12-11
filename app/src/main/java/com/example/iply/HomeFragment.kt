@@ -47,11 +47,11 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
     // Mock Data for Patents
     private fun getDummyPatents(): List<Patent> {
         return listOf(
-            Patent("Patent 1", R.drawable.ic_placeholder_image),
-            Patent("Patent 2", R.drawable.ic_placeholder_image),
-            Patent("Patent 3", R.drawable.ic_placeholder_image),
-            Patent("Patent 4", R.drawable.ic_placeholder_image),
-            Patent("Patent 5", R.drawable.ic_placeholder_image)
+            Patent("", "Patent 1", "", "", ""),
+            Patent("", "Patent 2", "", "", ""),
+            Patent("", "Patent 3", "", "", ""),
+            Patent("", "Patent 4", "", "", ""),
+            Patent("", "Patent 5", "", "", "")
         )
     }
 
