@@ -205,4 +205,4 @@ The Patent/Trademark Platform MVP simplifies intellectual property management, a
 
 - Embed the YouTube/Vimeo link of your Completed Demo Day prep video
 - Slides: https://docs.google.com/presentation/d/12DqASmYlspr18UEj1-gduzzIXWQi37lRsR0_RAVzksY/edit?usp=sharing
-- Presentation: https://docs.google.com/presentation/d/12DqASmYlspr18UEj1-gduzzIXWQi37lRsR0_RAVzksY/edit?usp=sharing
+- Presentation: https://drive.google.com/file/d/1aDdB9JXkeBP855APC1h5B9kxBMT_frR3/view?usp=drive_link
